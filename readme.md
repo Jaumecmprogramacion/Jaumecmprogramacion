@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jaumecrespo@jaumecrespo.com**
 
-<h3 align="left">Connect with me: www.jaumecrespo.com</h3>
+<h3 align="left"> www.jaumecrespo.com</h3>
 <p align="left">
 </p>
 
