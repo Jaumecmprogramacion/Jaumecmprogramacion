@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaumecmprogramacion&label=Profile%20views&color=0e75b6&style=flat" alt="jaumecmprogramacion" /> </p>
 
-- 📫 How to reach me **jaimecrespoprogramacion@gmail.com**
+- 📫 How to reach me **jaumecrespo@jaumecrespo.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.jaumecrespo.com</h3>
 <p align="left">
 </p>
 
