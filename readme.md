@@ -14,7 +14,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,firebase,github,c,php" />
+    <img src="https://skillicons.dev/icons?i=git,firebase,,html,css,wordpress,github,c,php" />
   </a>
 </p>
 
