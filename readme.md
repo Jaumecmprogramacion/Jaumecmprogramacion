@@ -15,3 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaumecmprogramacion&show_icons=true&locale=en" alt="jaumecmprogramacion" /></p>
 
 <a href="https://u8views.com/github/Jaumecmprogramacion"><img src="https://u8views.com/api/v1/github/profiles/178517298/views/day-week-month-total-count.svg"></a>
+[![Jaume Crespo profile views](https://u8views.com/api/v1/github/profiles/178517298/views/day-week-month-total-count.svg)](https://u8views.com/github/Jaumecmprogramacion)
