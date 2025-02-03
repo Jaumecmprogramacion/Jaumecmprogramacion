@@ -3,7 +3,7 @@
 
 <img src="web.jpg">
 
-<p align="left"> <img src="web.jpg" /> </p>
+
 
 - 📫 Me puedes contactar en **jaumecrespo@jaumecrespo.com**
 
