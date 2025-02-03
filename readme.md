@@ -1,7 +1,10 @@
 <h1 align="center">Hola 👋, Soy Jaume Crespo</h1>
 <h3 align="center">Apasionado de la programación</h3>
 
-<img src="web.jpg">
+<a href="https://www.jaumecrespo.com" target="_blank">
+    <img src="web.jpg" 
+    >
+</a>
 
 
 
