@@ -14,9 +14,9 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaumecmprogramacion&show_icons=true&locale=en" alt="jaumecmprogramacion" /></p>
 
-<a href="https://u8views.com/github/Jaumecmprogramacion"><img src="https://u8views.com/api/v1/github/profiles/178517298/views/day-week-month-total-count.svg"></a>
+
+
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
@@ -24,4 +24,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jaumecmprogramacion&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<a href="https://u8views.com/github/Jaumecmprogramacion"><img src="https://u8views.com/api/v1/github/profiles/178517298/views/day-week-month-total-count.svg"></a>
 
