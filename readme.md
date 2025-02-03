@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Jaume Crespo</h1>
 <h3 align="center">Apasionado de la programación</h3>
 
-<img src="https://i.imgur.com/weNbhGZ.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaumecmprogramacion&label=Profile%20views&color=0e75b6&style=flat" alt="jaumecmprogramacion" /> </p>
 
